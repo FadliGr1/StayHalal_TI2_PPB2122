@@ -1,0 +1,421 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:2:1-111:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\869d57e9f5fe21e516ded9b8e2cb69a9\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.hbb20:ccp:2.2.9] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1b57e3cb1e79f231f8de57632c8397dd\jetified-ccp-2.2.9\AndroidManifest.xml:2:1-17:12
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1a4ac893e93f7e30b4fab605d92f07aa\jetified-fastscroll-0.2.5\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\5d2a65a8948fe05dcd8049accc719b23\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\792b217f75ef43b7ed402e96487ca509\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\010d746109cd55195172b547f2fa942b\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\98868bd8a745cfa39f99facb1b3b90bf\sdp-android-1.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\fa89c253559939016bbc9c6cd017172e\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\7dddd90b678ac086b7fc7799d8dedb33\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\717438477058a6e41534db9da1ea91f7\firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\64f9f5a8ee10dbd78d731ec4ccbc440b\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\34b64c3537b525c79a698180614230b2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\cd79f3b562c9f217249084e2eb1c6112\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8482175333e3a530fa99aced2bba89dd\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\64b908f4bd8a482b90c0128d0ffc12fc\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\5e72bee24aea19c1fe2b08e2ef17e753\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\ae8cc5dd9d5109aa28fb4fa2ea3431fc\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\7a4f357b69a67ce75e0741b685325f43\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\571c87634557efc65242ef887985e288\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\f9b1132d8a2be1f357c0e828416cf1bf\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\f0a20dce50060dd52fa102318a14e502\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\3a0f73cec190ee8cb25a42c68522f475\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\956d372dcb536cf30866889d88a5ee3a\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\100563b7e8d32305fc8cf1ff967825fd\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8e5a824addac6c678a9cd1e6335805c5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\b4f2c32c4f96f77abaed83d22e6927dc\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\4277c1f3f6d577fdf3ee2173000e96b9\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\3015fbf3127206779a2a810ee1a64f2a\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\96b2381385ddd29aa05c621b7fdc9438\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\2af4bab94054358ba23de286c4f1fce8\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\43b937039ffa3a1db9fb50e066f74db5\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\a60cda290468317075bd30c4df2ff45c\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\f3d7c5758d3a419135c176e02791ad9b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\3eaaecbef46563423e2ea9dc614b11d8\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bdd7a9f82f4b1a1cdeb3742bdedd5d76\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\6ee069de018ddfc4b4159f78faf583b3\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\efaab3b507422b7352aedf8b0c25f3b0\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\a218934c59f01b677f64d4d600e23699\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1e62fab9191acb1c044a3a3f3620012f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\961d3eb920c3ee14cf5dc7505c3efcc1\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.10.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\01ef16285b71e8482015e9a6498d2235\libphonenumber-android-8.10.1\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:2:1-111:12
+INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:2:1-111:12
+	package
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:2:1-111:12
+		INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:2:1-111:12
+		INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:6:5-109:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\869d57e9f5fe21e516ded9b8e2cb69a9\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\869d57e9f5fe21e516ded9b8e2cb69a9\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.hbb20:ccp:2.2.9] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1b57e3cb1e79f231f8de57632c8397dd\jetified-ccp-2.2.9\AndroidManifest.xml:11:5-15:19
+MERGED from [com.hbb20:ccp:2.2.9] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1b57e3cb1e79f231f8de57632c8397dd\jetified-ccp-2.2.9\AndroidManifest.xml:11:5-15:19
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1a4ac893e93f7e30b4fab605d92f07aa\jetified-fastscroll-0.2.5\AndroidManifest.xml:11:5-20
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1a4ac893e93f7e30b4fab605d92f07aa\jetified-fastscroll-0.2.5\AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\792b217f75ef43b7ed402e96487ca509\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\792b217f75ef43b7ed402e96487ca509\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\7dddd90b678ac086b7fc7799d8dedb33\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\7dddd90b678ac086b7fc7799d8dedb33\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\717438477058a6e41534db9da1ea91f7\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\717438477058a6e41534db9da1ea91f7\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\64f9f5a8ee10dbd78d731ec4ccbc440b\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\64f9f5a8ee10dbd78d731ec4ccbc440b\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\34b64c3537b525c79a698180614230b2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\34b64c3537b525c79a698180614230b2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\4277c1f3f6d577fdf3ee2173000e96b9\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\4277c1f3f6d577fdf3ee2173000e96b9\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\3015fbf3127206779a2a810ee1a64f2a\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\3015fbf3127206779a2a810ee1a64f2a\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\a60cda290468317075bd30c4df2ff45c\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\a60cda290468317075bd30c4df2ff45c\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+	android:fitsSystemWindows
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:8:9-41
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\4277c1f3f6d577fdf3ee2173000e96b9\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:10:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:13:9-51
+	tools:ignore
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:14:9-48
+	android:icon
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:12:9-40
+activity#app.styhalal.qibus.ui.activity.SettingActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:16:9-18:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:17:13-74
+activity#app.styhalal.qibus.ui.activity.PackageActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:20:9-22:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:21:13-74
+activity#app.styhalal.qibus.ui.activity.OffersActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:24:9-26:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:26:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:25:13-73
+activity#app.styhalal.qibus.ui.activity.CardDetailActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:28:9-31:70
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:30:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:31:13-67
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:29:13-77
+activity#app.styhalal.qibus.ui.activity.PaymentActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:34:13-74
+activity#app.styhalal.qibus.ui.activity.PassengerDetailActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:37:9-40:70
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:39:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:40:13-67
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:38:13-82
+activity#app.styhalal.qibus.ui.activity.DroppingPointActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:42:9-44:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:43:13-80
+activity#app.styhalal.qibus.ui.activity.VerificationActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:46:9-49:70
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:48:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:49:13-67
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:47:13-79
+activity#app.styhalal.qibus.ui.activity.BookingActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:51:9-53:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:52:13-74
+activity#app.styhalal.qibus.ui.activity.SignInActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:55:9-58:57
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:57:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:58:13-54
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:56:13-73
+activity#app.styhalal.qibus.ui.activity.DashboardActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:60:9-63:55
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:62:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:63:13-52
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:61:13-76
+activity#app.styhalal.qibus.ui.activity.SelectionActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:65:9-68:55
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:67:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:68:13-52
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:66:13-76
+activity#app.styhalal.qibus.ui.activity.SplashActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:71:9-78:20
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:72:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:74:13-77:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:75:17-69
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:75:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:76:17-77
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:76:27-74
+activity#app.styhalal.qibus.ui.activity.NotificationActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:80:9-82:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:81:13-79
+activity#app.styhalal.qibus.ui.activity.BusListActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:84:9-86:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:86:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:85:13-74
+activity#app.styhalal.qibus.ui.activity.ProfileSettingsActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:88:9-91:70
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:90:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:91:13-67
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:89:13-82
+activity#app.styhalal.qibus.ui.activity.WalletActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:93:9-95:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:95:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:94:13-73
+activity#app.styhalal.qibus.ui.activity.CardsActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:97:9-99:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:98:13-72
+activity#app.styhalal.qibus.ui.activity.ReferEarnActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:101:9-103:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:102:13-76
+activity#app.styhalal.qibus.ui.activity.HelpActivity
+ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:105:9-107:52
+	android:screenOrientation
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:107:13-49
+	android:name
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:106:13-71
+uses-sdk
+INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\869d57e9f5fe21e516ded9b8e2cb69a9\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\869d57e9f5fe21e516ded9b8e2cb69a9\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.hbb20:ccp:2.2.9] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1b57e3cb1e79f231f8de57632c8397dd\jetified-ccp-2.2.9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hbb20:ccp:2.2.9] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1b57e3cb1e79f231f8de57632c8397dd\jetified-ccp-2.2.9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1a4ac893e93f7e30b4fab605d92f07aa\jetified-fastscroll-0.2.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1a4ac893e93f7e30b4fab605d92f07aa\jetified-fastscroll-0.2.5\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\5d2a65a8948fe05dcd8049accc719b23\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\5d2a65a8948fe05dcd8049accc719b23\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\792b217f75ef43b7ed402e96487ca509\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\792b217f75ef43b7ed402e96487ca509\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\010d746109cd55195172b547f2fa942b\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\010d746109cd55195172b547f2fa942b\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\98868bd8a745cfa39f99facb1b3b90bf\sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\98868bd8a745cfa39f99facb1b3b90bf\sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\fa89c253559939016bbc9c6cd017172e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\fa89c253559939016bbc9c6cd017172e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\7dddd90b678ac086b7fc7799d8dedb33\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\7dddd90b678ac086b7fc7799d8dedb33\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\717438477058a6e41534db9da1ea91f7\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\717438477058a6e41534db9da1ea91f7\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\64f9f5a8ee10dbd78d731ec4ccbc440b\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\64f9f5a8ee10dbd78d731ec4ccbc440b\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\34b64c3537b525c79a698180614230b2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\34b64c3537b525c79a698180614230b2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\cd79f3b562c9f217249084e2eb1c6112\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\cd79f3b562c9f217249084e2eb1c6112\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8482175333e3a530fa99aced2bba89dd\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8482175333e3a530fa99aced2bba89dd\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\64b908f4bd8a482b90c0128d0ffc12fc\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\64b908f4bd8a482b90c0128d0ffc12fc\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\5e72bee24aea19c1fe2b08e2ef17e753\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\5e72bee24aea19c1fe2b08e2ef17e753\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\ae8cc5dd9d5109aa28fb4fa2ea3431fc\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\ae8cc5dd9d5109aa28fb4fa2ea3431fc\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\7a4f357b69a67ce75e0741b685325f43\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\7a4f357b69a67ce75e0741b685325f43\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\571c87634557efc65242ef887985e288\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\571c87634557efc65242ef887985e288\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\f9b1132d8a2be1f357c0e828416cf1bf\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\f9b1132d8a2be1f357c0e828416cf1bf\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\f0a20dce50060dd52fa102318a14e502\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\f0a20dce50060dd52fa102318a14e502\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\3a0f73cec190ee8cb25a42c68522f475\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\3a0f73cec190ee8cb25a42c68522f475\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\956d372dcb536cf30866889d88a5ee3a\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\956d372dcb536cf30866889d88a5ee3a\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\100563b7e8d32305fc8cf1ff967825fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\100563b7e8d32305fc8cf1ff967825fd\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8e5a824addac6c678a9cd1e6335805c5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8e5a824addac6c678a9cd1e6335805c5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\b4f2c32c4f96f77abaed83d22e6927dc\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\b4f2c32c4f96f77abaed83d22e6927dc\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\4277c1f3f6d577fdf3ee2173000e96b9\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\4277c1f3f6d577fdf3ee2173000e96b9\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\3015fbf3127206779a2a810ee1a64f2a\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\3015fbf3127206779a2a810ee1a64f2a\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\96b2381385ddd29aa05c621b7fdc9438\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\96b2381385ddd29aa05c621b7fdc9438\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\2af4bab94054358ba23de286c4f1fce8\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\2af4bab94054358ba23de286c4f1fce8\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\43b937039ffa3a1db9fb50e066f74db5\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\43b937039ffa3a1db9fb50e066f74db5\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\a60cda290468317075bd30c4df2ff45c\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\a60cda290468317075bd30c4df2ff45c\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\f3d7c5758d3a419135c176e02791ad9b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\f3d7c5758d3a419135c176e02791ad9b\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\3eaaecbef46563423e2ea9dc614b11d8\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\3eaaecbef46563423e2ea9dc614b11d8\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bdd7a9f82f4b1a1cdeb3742bdedd5d76\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bdd7a9f82f4b1a1cdeb3742bdedd5d76\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\6ee069de018ddfc4b4159f78faf583b3\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\6ee069de018ddfc4b4159f78faf583b3\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\efaab3b507422b7352aedf8b0c25f3b0\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\efaab3b507422b7352aedf8b0c25f3b0\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\a218934c59f01b677f64d4d600e23699\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\a218934c59f01b677f64d4d600e23699\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1e62fab9191acb1c044a3a3f3620012f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\1e62fab9191acb1c044a3a3f3620012f\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\961d3eb920c3ee14cf5dc7505c3efcc1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\961d3eb920c3ee14cf5dc7505c3efcc1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.michaelrocks:libphonenumber-android:8.10.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\01ef16285b71e8482015e9a6498d2235\libphonenumber-android-8.10.1\AndroidManifest.xml:7:5-9:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.10.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\01ef16285b71e8482015e9a6498d2235\libphonenumber-android-8.10.1\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\34b64c3537b525c79a698180614230b2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\34b64c3537b525c79a698180614230b2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\34b64c3537b525c79a698180614230b2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

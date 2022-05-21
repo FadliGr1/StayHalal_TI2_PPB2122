@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738297483447",
+    "firebase_url": "https://tubes-7db67-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tubes-7db67",
+    "storage_bucket": "tubes-7db67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738297483447:android:79ee2c7db978d73034fd32",
+        "android_client_info": {
+          "package_name": "app.styhalal.qibus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738297483447-a0tlcquq475a7shc6gli98lvmq58j5d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmPElgrb6bzxWCsnH6Vyp6Kq7mVpjyPFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738297483447-a0tlcquq475a7shc6gli98lvmq58j5d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

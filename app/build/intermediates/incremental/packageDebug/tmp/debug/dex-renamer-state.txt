@@ -1,0 +1,7 @@
+#Sat May 21 12:54:51 ICT 2022
+base.1=C\:\\Users\\fadli\\OneDrive\\Documents\\SEMESTER 6 2022\\PEMPROGRAMAN PERANGKAT BERGERAK\\MainFile_Android\\QIBus_product\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\fadli\\OneDrive\\Documents\\SEMESTER 6 2022\\PEMPROGRAMAN PERANGKAT BERGERAK\\MainFile_Android\\QIBus_product\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

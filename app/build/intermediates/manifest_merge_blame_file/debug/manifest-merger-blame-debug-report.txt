@@ -1,0 +1,236 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="app.styhalal.qibus"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:6:5-109:19
+12        android:allowBackup="true"
+12-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:7:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.1] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\4277c1f3f6d577fdf3ee2173000e96b9\core-1.0.1\AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:fitsSystemWindows="true"
+15-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:8:9-41
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:9:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:10:9-41
+18        android:supportsRtl="true"
+18-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:11:9-35
+19        android:theme="@style/AppTheme"
+19-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:12:9-40
+20        android:windowSoftInputMode="adjustResize" >
+20-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:13:9-51
+21        <activity
+21-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:16:9-18:52
+22            android:name="app.styhalal.qibus.ui.activity.SettingActivity"
+22-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:17:13-74
+23            android:screenOrientation="portrait" />
+23-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:18:13-49
+24        <activity
+24-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:20:9-22:52
+25            android:name="app.styhalal.qibus.ui.activity.PackageActivity"
+25-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:21:13-74
+26            android:screenOrientation="portrait" />
+26-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:22:13-49
+27        <activity
+27-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:24:9-26:52
+28            android:name="app.styhalal.qibus.ui.activity.OffersActivity"
+28-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:25:13-73
+29            android:screenOrientation="portrait" />
+29-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:26:13-49
+30        <activity
+30-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:28:9-31:70
+31            android:name="app.styhalal.qibus.ui.activity.CardDetailActivity"
+31-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:29:13-77
+32            android:screenOrientation="portrait"
+32-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:30:13-49
+33            android:windowSoftInputMode="stateHidden|adjustResize" />
+33-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:31:13-67
+34        <activity
+34-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:33:9-35:52
+35            android:name="app.styhalal.qibus.ui.activity.PaymentActivity"
+35-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:34:13-74
+36            android:screenOrientation="portrait" />
+36-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:35:13-49
+37        <activity
+37-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:37:9-40:70
+38            android:name="app.styhalal.qibus.ui.activity.PassengerDetailActivity"
+38-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:38:13-82
+39            android:screenOrientation="portrait"
+39-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:39:13-49
+40            android:windowSoftInputMode="stateHidden|adjustResize" />
+40-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:40:13-67
+41        <activity
+41-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:42:9-44:52
+42            android:name="app.styhalal.qibus.ui.activity.DroppingPointActivity"
+42-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:43:13-80
+43            android:screenOrientation="portrait" />
+43-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:44:13-49
+44        <activity
+44-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:46:9-49:70
+45            android:name="app.styhalal.qibus.ui.activity.VerificationActivity"
+45-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:47:13-79
+46            android:screenOrientation="portrait"
+46-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:48:13-49
+47            android:windowSoftInputMode="adjustResize|stateHidden" />
+47-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:49:13-67
+48        <activity
+48-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:51:9-53:52
+49            android:name="app.styhalal.qibus.ui.activity.BookingActivity"
+49-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:52:13-74
+50            android:screenOrientation="portrait" />
+50-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:53:13-49
+51        <activity
+51-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:55:9-58:57
+52            android:name="app.styhalal.qibus.ui.activity.SignInActivity"
+52-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:56:13-73
+53            android:screenOrientation="portrait"
+53-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:57:13-49
+54            android:windowSoftInputMode="stateHidden" />
+54-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:58:13-54
+55        <activity
+55-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:60:9-63:55
+56            android:name="app.styhalal.qibus.ui.activity.DashboardActivity"
+56-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:61:13-76
+57            android:screenOrientation="portrait"
+57-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:62:13-49
+58            android:windowSoftInputMode="adjustPan" />
+58-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:63:13-52
+59        <activity
+59-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:65:9-68:55
+60            android:name="app.styhalal.qibus.ui.activity.SelectionActivity"
+60-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:66:13-76
+61            android:screenOrientation="portrait"
+61-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:67:13-49
+62            android:windowSoftInputMode="adjustPan" />
+62-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:68:13-52
+63        <activity
+63-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:71:9-78:20
+64            android:name="app.styhalal.qibus.ui.activity.SplashActivity"
+64-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:72:13-73
+65            android:screenOrientation="portrait" >
+65-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:73:13-49
+66            <intent-filter>
+66-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:74:13-77:29
+67                <action android:name="android.intent.action.MAIN" />
+67-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:75:17-69
+67-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:75:25-66
+68
+69                <category android:name="android.intent.category.LAUNCHER" />
+69-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:76:17-77
+69-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:76:27-74
+70            </intent-filter>
+71        </activity>
+72        <activity
+72-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:80:9-82:52
+73            android:name="app.styhalal.qibus.ui.activity.NotificationActivity"
+73-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:81:13-79
+74            android:screenOrientation="portrait" />
+74-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:82:13-49
+75        <activity
+75-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:84:9-86:52
+76            android:name="app.styhalal.qibus.ui.activity.BusListActivity"
+76-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:85:13-74
+77            android:screenOrientation="portrait" />
+77-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:86:13-49
+78        <activity
+78-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:88:9-91:70
+79            android:name="app.styhalal.qibus.ui.activity.ProfileSettingsActivity"
+79-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:89:13-82
+80            android:screenOrientation="portrait"
+80-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:90:13-49
+81            android:windowSoftInputMode="stateHidden|adjustResize" />
+81-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:91:13-67
+82        <activity
+82-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:93:9-95:52
+83            android:name="app.styhalal.qibus.ui.activity.WalletActivity"
+83-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:94:13-73
+84            android:screenOrientation="portrait" />
+84-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:95:13-49
+85        <activity
+85-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:97:9-99:52
+86            android:name="app.styhalal.qibus.ui.activity.CardsActivity"
+86-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:98:13-72
+87            android:screenOrientation="portrait" />
+87-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:99:13-49
+88        <activity
+88-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:101:9-103:52
+89            android:name="app.styhalal.qibus.ui.activity.ReferEarnActivity"
+89-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:102:13-76
+90            android:screenOrientation="portrait" />
+90-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:103:13-49
+91        <activity
+91-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:105:9-107:52
+92            android:name="app.styhalal.qibus.ui.activity.HelpActivity"
+92-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:106:13-71
+93            android:screenOrientation="portrait" />
+93-->C:\Users\fadli\OneDrive\Documents\SEMESTER 6 2022\PEMPROGRAMAN PERANGKAT BERGERAK\MainFile_Android\QIBus_product\app\src\main\AndroidManifest.xml:107:13-49
+94        <activity
+94-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+95            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+95-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+96            android:excludeFromRecents="true"
+96-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+97            android:exported="true"
+97-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+98            android:launchMode="singleTask"
+98-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+99            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+99-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+100            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+100-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+101
+102        <service
+102-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+103            android:name="com.google.firebase.components.ComponentDiscoveryService"
+103-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
+104            android:directBootAware="true"
+104-->[com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+105            android:exported="false" >
+105-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+106            <meta-data
+106-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+107                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+107-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\bb419cb1ff2637c57bc509529c8b8074\firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+109        </service>
+110
+111        <activity
+111-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+112            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+112-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+113            android:exported="false"
+113-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+114            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+114-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\62a927c0f9445206ab68dad836515bbc\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+115
+116        <provider
+116-->[com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+117            android:name="com.google.firebase.provider.FirebaseInitProvider"
+117-->[com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+118            android:authorities="app.styhalal.qibus.firebaseinitprovider"
+118-->[com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+119            android:exported="false"
+119-->[com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+120            android:initOrder="100" />
+120-->[com.google.firebase:firebase-common:19.3.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\8f41e5dded70a120adb304f7ae01d895\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+121
+122        <meta-data
+122-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\34b64c3537b525c79a698180614230b2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+123            android:name="com.google.android.gms.version"
+123-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\34b64c3537b525c79a698180614230b2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+124            android:value="@integer/google_play_services_version" />
+124-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\fadli\.gradle\caches\transforms-2\files-2.1\34b64c3537b525c79a698180614230b2\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+125    </application>
+126
+127</manifest>

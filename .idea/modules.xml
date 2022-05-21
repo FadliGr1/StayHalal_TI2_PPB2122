@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QIBus_product.iml" filepath="$PROJECT_DIR$/.idea/modules/QIBus_product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QIBus_SoftUI/QIBus_product.QIBus_SoftUI.iml" filepath="$PROJECT_DIR$/.idea/modules/QIBus_SoftUI/QIBus_product.QIBus_SoftUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QIBus_product.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QIBus_product.app.iml" />
+    </modules>
+  </component>
+</project>

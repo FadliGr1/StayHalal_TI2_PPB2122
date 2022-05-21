@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_booking.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_bus_list.xml" value="0.25" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_card_detail.xml" value="0.33" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_dashboard.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_dropping_point.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_help.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_notification.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_offers.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_package.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_passenger_detail.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_payment.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_profile.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_refer_earn.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_selection.xml" value="0.15" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_setting.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_verification.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/activity_wallet.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/custom_toast.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/dialog_filter.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/dialog_success.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/fragment_more.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/fragment_mybooking.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/fragment_offers.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/item_available_bus.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/item_booking.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/item_cancel.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/item_card.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/item_dropping1.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/item_newoffers.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/item_notification.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/item_package.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/item_passenger1.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/item_viewoffer.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/item_viewpackage.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/layout_addnotification.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/layout_bottom_bar.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/layout_hold.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/layout_notification.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/list_item_seat.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/list_item_sleeper.xml" value="0.209375" />
+        <entry key="..\:/Users/fadli/OneDrive/Documents/SEMESTER 6 2022/PEMPROGRAMAN PERANGKAT BERGERAK/MainFile_Android/QIBus_product/app/src/main/res/layout/spinner_items.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
